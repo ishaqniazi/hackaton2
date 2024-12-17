@@ -7,8 +7,8 @@ const Hero3 = () => {
         </div>  <div className="flex gap-[30px]"><First />
         </div>
         <div><p className="text-[20px] font-medium leading-[30px] pt-[75px] pb-[19px]"  >View All Post</p>
-                <div className="border-2 w-[115px] border-black " > </div>
-                </div>
+            <div className="border-2 w-[115px] border-black " > </div>
+        </div>
     </div></>
 }
 export default Hero3

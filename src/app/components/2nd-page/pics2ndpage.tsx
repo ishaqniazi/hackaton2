@@ -15,15 +15,15 @@ const pics: IPicProps[] = [
     {
         id: 1,
         image: "/2nd-page-pics/1stpic.png",
-        paragraph:"Trenton modular sofa_3",
-        price:"Rs. 25,000.00",
+        paragraph: "Trenton modular sofa_3",
+        price: "Rs. 25,000.00",
 
     },
     {
         id: 2,
         image: "/2nd-page-pics/2ndpic.png",
-        paragraph:"Granite dining table with dining chair",
-        price:"Rs. 25,000.00",
+        paragraph: "Granite dining table with dining chair",
+        price: "Rs. 25,000.00",
     }]
 
 
@@ -44,7 +44,7 @@ const FirstShop = () => {
                     <p className="font-regular text-left text-[16px]">{paragraph} </p>
                     <p className="font-medium  text-left text-[24px]">{price}</p>
 
-                    </div>
+                </div>
             )
         })};
     </>
